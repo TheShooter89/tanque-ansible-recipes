@@ -31,7 +31,7 @@ $ cd tanque-ansible-recipes
 Move to desired recipe
 
 ```bash
-$ cd home_workstation
+$ cd workstation
 ```
 ### Run the recipe
 
