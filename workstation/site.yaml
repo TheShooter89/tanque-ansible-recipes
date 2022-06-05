@@ -1,0 +1,8 @@
+---
+- name: 'tanque-ansible-recipe - WORKSTATIONS'
+  hosts: workstations
+  connection: local
+  tasks:
+    - name: HELLO WORKSTATION RECIPE
+      ping:
+        data: 'Hello workstation rescipe! :)'
