@@ -1,4 +1,5 @@
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+![GitHub](https://img.shields.io/github/license/TheShooter89/tanque-ansible-recipes?style=flat-square)
+
 # tanque-ansible-recipes
 
 my personal Ansible recipes for various tasks automation
