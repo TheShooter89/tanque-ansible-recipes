@@ -1,0 +1,8 @@
+---
+- name: "automatically setup tanque personal configs on fresh new machine"
+  hosts: workstation
+  connection: local
+  tasks:
+    - name: "setup dotfiles leveraging GNU-stow"
+      ping:
+        data: "hello dotfiles ANSIBLE script"
